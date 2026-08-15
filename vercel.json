@@ -1,0 +1,14 @@
+{
+  "projectId": "",
+  "orgId": "",
+  "buildCommand": "next build",
+  "devCommand": "next dev",
+  "outputDirectory": ".next",
+  "framework": "nextjs",
+  "cleanUrls": true,
+  "env": {
+    "NEXT_PUBLIC_API_URL": {
+      "description": "API URL for the application"
+    }
+  }
+}
